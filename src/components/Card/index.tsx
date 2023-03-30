@@ -27,7 +27,7 @@ type Props = {
 export function Card({data, ...rest}: Props) {
   
   return(
-    <S.PokemonCard type= {data.types[0].type.name} {...rest}>
+    <S.PokemonCard key={data.id} type= {data.types[0].type.name} {...rest}>
       <S.LeftSide>
         <S.PokemonId>#{data.id}</S.PokemonId>
         <S.PokemonName>{data.name}</S.PokemonName>

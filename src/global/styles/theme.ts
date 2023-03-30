@@ -18,8 +18,12 @@ export default {
       normal: '#B5B9C4',
       bug: '#8BD674',
       flying: '#748FC9',
-      eletric: '#F2CB55',
-      ground: '#F78551',
+      electric: '#F2BB55',
+      ground: '#F79951',
+      fairy: '#ED9EC7',
+      fighting: '#EB4971',
+      psychic: '#B8DFC4',
+      rock: '#CCD2D2',
     },
   
     boxType: {
@@ -30,8 +34,12 @@ export default {
       normal: '#9DA0AA',
       bug: '#8CB330',
       flying: '#748FC9',
-      eletric: '#F2CB55',
+      electric: '#F2CB00',
       ground: '#F78551',
+      fairy: '#ED6EC7',
+      fighting: '#D04164',
+      psychic: '#B5FFC1',
+      rock: '#C2C2C2',
     },
   },
 }
