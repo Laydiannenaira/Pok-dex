@@ -24,6 +24,7 @@ export default {
       fighting: '#EB4971',
       psychic: '#B8DFC4',
       rock: '#CCD2D2',
+      ghost: '#A4165F',
     },
   
     boxType: {
@@ -40,6 +41,7 @@ export default {
       fighting: '#D04164',
       psychic: '#B5FFC1',
       rock: '#C2C2C2',
+      ghost: '#FF4572',
     },
   },
 }
